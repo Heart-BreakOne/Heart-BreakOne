@@ -1,6 +1,6 @@
-#Hello there, welcome in.
+# Hello there, welcome in.
 
-I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer using languages and tools like kotlin, flutter and swift.
+My name is Leonardo. I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer using languages and tools like kotlin, flutter and swift.
 
 Please go check my page to better see what I am up to.
 
