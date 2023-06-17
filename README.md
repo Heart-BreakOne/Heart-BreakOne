@@ -4,9 +4,9 @@ My name is Leonardo. I am currently studying Systems Analysis and Development an
 
 Please go check my page to better see what I am up to.
 
-My repositories are:
-Pokechecker
-IRC-Client for Twitch
+My repositories are: </br>
+Pokechecker </br>
+IRC-Client for Twitch </br>
 
 If you would like to contact me, you can do it on via: </br>
 
