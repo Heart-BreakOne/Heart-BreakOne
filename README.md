@@ -1,17 +1,18 @@
 #Hello there, welcome in.
 
-I am currently stufying Systems Analysis and Development and I am aspiring to become a mobile developer using languages and tools like kotlin, flutter and swift.
+I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer using languages and tools like kotlin, flutter and swift.
 
-Please go check my page to see better see what I am up to.
+Please go check my page to better see what I am up to.
 
 My repositories are:
 Pokechecker
 IRC-Client for Twitch
 
-If you would like to contact me, you can do it on via:
-[E-mail](mailto:leo_coutin@outlook.com)
-[Linkedin](https://www.linkedin.com/in/leonardocluiz/)
-[Discord](discordapp.com/users/heartbreakone)
+If you would like to contact me, you can do it on via: </br>
+
+[E-mail](mailto:leo_coutin@outlook.com) </br>
+[Linkedin](https://www.linkedin.com/in/leonardocluiz/) </br>
+[Discord](discordapp.com/users/heartbreakone) </br>
 [Twitch via whispers.](https://www.twitch.tv/heartbreakone_)
 
 <!--
