@@ -2,13 +2,14 @@
 
 My name is Leonardo. I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer.
 
-Please go check my page to better see what I am up to.
+##  [Check out my page](https://heart-breakone.github.io/)
 
 If you would like to contact me, you can do it on via: </br>
 
 [E-mail](mailto:leo_coutin@outlook.com) </br>
 [Linkedin](https://www.linkedin.com/in/leonardocluiz/) </br>
 [Discord](discordapp.com/users/heartbreakone) </br>
+
 
 <!--
 **Mobius-One/Mobius-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
