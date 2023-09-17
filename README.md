@@ -1,19 +1,14 @@
 # Hello there, welcome in.
 
-My name is Leonardo. I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer using languages and tools like kotlin, flutter and swift.
+My name is Leonardo. I am currently studying Systems Analysis and Development and I am aspiring to become a mobile developer.
 
 Please go check my page to better see what I am up to.
-
-My repositories are: </br>
-Pokechecker </br>
-IRC-Client for Twitch </br>
 
 If you would like to contact me, you can do it on via: </br>
 
 [E-mail](mailto:leo_coutin@outlook.com) </br>
 [Linkedin](https://www.linkedin.com/in/leonardocluiz/) </br>
 [Discord](discordapp.com/users/heartbreakone) </br>
-[Twitch via whispers.](https://www.twitch.tv/heartbreakone_)
 
 <!--
 **Mobius-One/Mobius-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
