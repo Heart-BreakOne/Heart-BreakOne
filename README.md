@@ -36,7 +36,7 @@
 ## GitHub repo stats
 <div align="center">
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heart-breakone&theme=nord&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heart-breakone&layout=compact&langs_count=8)
 
 </div>
 
