@@ -39,9 +39,11 @@
 [![Static Badge](https://img.shields.io/badge/Gimp-Gimp?style=for-the-badge&logo=gimp&logoColor=white&color=rgba(82%2C%2077%2C%20%2063%2C%201))](https://www.gimp.org)
 </div>
 
+<!-- Stats https://github.com/anuraghazra/github-readme-stats -->
+
 ## GitHub repo stats
 <div align="center">
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heart-breakone&layout=compact&langs_count=8)
 
 </div>
